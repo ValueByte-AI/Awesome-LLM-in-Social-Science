@@ -59,6 +59,9 @@ Welcome to contribute and discuss!
 ---
 
 ##  1. <a name='Survey'></a>📚 Survey 
+- ⭐️ **Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement**, 2025.05, [[paper]](https://arxiv.org/abs/2505.08245).
+- **Large language models (LLM) in computational social science: prospects, current state, and challenges**, 2025.03, Social Network Analysis and Mining, [[paper]](https://link.springer.com/article/10.1007/s13278-025-01428-9).
+- **Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents**, 2025.03, [[paper]](https://arxiv.org/abs/2503.24047).
 - **On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective**, 2025.02, [[paper]](https://arxiv.org/abs/2502.14296).
 - **The Road to Artificial SuperIntelligence: A Comprehensive Survey of Superalignment**, 2024.12, [[paper]](https://arxiv.org/abs/2412.16468).
 - **Large Language Model Safety: A Holistic Survey**, 2024.12, [[paper]](https://arxiv.org/abs/2412.17686).
@@ -87,6 +90,7 @@ Welcome to contribute and discuss!
 
 
 ##  2. <a name='Dataset'></a>🗂️ Dataset
+- **Benchmarking Multi-National Value Alignment for Large Language Models**, 2025.04, [[paper]](https://arxiv.org/abs/2504.12911).
 - **COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values**, 2025.04, [[paper]](https://arxiv.org/abs/2504.05535).
 - **The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models**, NeurIPS 2024 D&B Track best paper, [[paper]](https://arxiv.org/abs/2404.16019).
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
@@ -173,6 +177,8 @@ Welcome to contribute and discuss!
 
 
 ###  3.4. <a name='Opinion'></a>🎤 Opinion
+- **Generative AI Meets Open-Ended Survey Responses: Research Participant Use of AI and Homogenization**, 2025.05, Sociological Methods & Research, [[paper]](https://journals.sagepub.com/doi/10.1177/00491241251327130).
+- **Machine Bias. How Do Generative Language Models Answer Opinion Polls?**, 2025.04, Sociological Methods & Research, [[paper]](https://doi.org/10.1177/00491241251330582).
 - **Large language models that replace human participants can harmfully misportray and flatten identity groups**, Nature Machine Intelligence, 2025, [[paper]](https://www.nature.com/articles/s42256-025-00986-z).
 - **Questioning the Survey Responses of Large Language Models**, NeurIPS 2024 Oral, [[paper]](https://arxiv.org/abs/2306.07951).
 - **Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**, ACL 2024, [paper](https://arxiv.org/abs/2402.16786).
@@ -200,9 +206,8 @@ Welcome to contribute and discuss!
 - **Large language models as a substitute for human experts in annotating political text**, 2024.02, [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241236239).
 
 ### 3.7. <a name='Risk'></a>❤️ Risk and Safety
-
 - **From Lived Experience to Insight: Unpacking the Psychological Risks of Using AI Conversational Agents**, 2024.12, [[paper]](https://arxiv.org/abs/2412.07951).
-
+- **Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations**, 2024.10, [[paper]](https://arxiv.org/abs/2410.15442).
 - **AIR-Bench 2024: A Safety Benchmark Based on Risk Categories from Regulations and Policies**, 2024.07, [[paper]](https://arxiv.org/abs/2407.17436).
 
 ##  4. <a name='Toolenhancement'></a>⚒️ Tool enhancement
