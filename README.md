@@ -53,7 +53,7 @@ Welcome to contribute and discuss!
 * 5. [⛑️ Alignment](#Alignment)
 	* 5.1. [🌈 Pluralistic Alignment](#PluralisticAlignment)
 * 6. [🚀 Simulation](#Simulation)
-* 7. [👁️‍🗨️ Perspective](#Perspective)
+* 7. [👁️‍🗨️ Perspective and Position](#Perspective)
 
 
 ---
@@ -92,6 +92,7 @@ Welcome to contribute and discuss!
 ##  2. <a name='Dataset'></a>🗂️ Dataset
 - **Benchmarking Multi-National Value Alignment for Large Language Models**, 2025.04, [[paper]](https://arxiv.org/abs/2504.12911).
 - **COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values**, 2025.04, [[paper]](https://arxiv.org/abs/2504.05535).
+- **Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?**, 2025.01, [[paper]](https://arxiv.org/abs/2501.15463).
 - **The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models**, NeurIPS 2024 D&B Track best paper, [[paper]](https://arxiv.org/abs/2404.16019).
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
 - **Automating Dataset Updates Towards Reliable and Timely Evaluation of Large Language Models**, NeurIPS 2024, [[paper]](https://arxiv.org/abs/2402.11894).
@@ -290,7 +291,8 @@ Welcome to contribute and discuss!
 - **Emergence of Social Norms in Large Language Model-based Agent Societies**, 2024.03, [[paper]](https://arxiv.org/abs/2403.08251), [[code]](https://github.com/sxswz213/CRSEC).
 - **Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior**, ICLR-2024, [[paper]](https://openreview.net/forum?id=TrKq4Wlwcz)
 
-##  7. <a name='Perspective'></a>👁️‍🗨️ Perspective
+##  7. <a name='Perspective'></a>👁️‍🗨️ Perspective and Position
+- **Position: Simulating Society Requires Simulating Thought**, 2025.06, [[paper]](https://arxiv.org/abs/2506.06958).
 - **The benefits, risks and bounds of personalizing the alignment of large language models to individuals**, 2024.04, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-024-00820-y).
 - **A social path to human-like artificial intelligence**, 2023.11, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-023-00754-x).
 - **Using large language models in psychology**, 2023.10, Nature reviews psychology, [[paper]](https://www.nature.com/articles/s44159-023-00241-5).
