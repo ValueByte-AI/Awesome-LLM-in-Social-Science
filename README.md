@@ -90,6 +90,8 @@ Welcome to contribute and discuss!
 
 
 ##  2. <a name='Dataset'></a>🗂️ Dataset
+- **[Mental Health Datasets](https://github.com/kharrigian/mental-health-datasets)**
+- **[Datasets for depression detection using data posted on online platforms](https://github.com/bucuram/depression-datasets-nlp)**
 - **Benchmarking Multi-National Value Alignment for Large Language Models**, 2025.04, [[paper]](https://arxiv.org/abs/2504.12911).
 - **COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values**, 2025.04, [[paper]](https://arxiv.org/abs/2504.05535).
 - **Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?**, 2025.01, [[paper]](https://arxiv.org/abs/2501.15463).
