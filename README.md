@@ -60,6 +60,7 @@ Welcome to contribute and discuss!
 
 ##  1. <a name='Survey'></a>📚 Survey 
 - ⭐️ **Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement**, 2025.05, [[paper]](https://arxiv.org/abs/2505.08245).
+- **Missing the Margins: A Systematic Literature Review on the Demographic Representativeness of LLMs**, ACL 2025, [[paper]](https://aclanthology.org/2025.findings-acl.1246/), [[collection]](https://github.com/Indiiigo/LLM_rep_review).
 - **Large language models (LLM) in computational social science: prospects, current state, and challenges**, 2025.03, Social Network Analysis and Mining, [[paper]](https://link.springer.com/article/10.1007/s13278-025-01428-9).
 - **Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents**, 2025.03, [[paper]](https://arxiv.org/abs/2503.24047).
 - **On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective**, 2025.02, [[paper]](https://arxiv.org/abs/2502.14296).
@@ -180,6 +181,7 @@ Welcome to contribute and discuss!
 
 
 ###  3.4. <a name='Opinion'></a>🎤 Opinion
+- **Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models**, ACL 2025, [[paper]](https://aclanthology.org/2025.acl-long.1529.pdf).
 - **Generative AI Meets Open-Ended Survey Responses: Research Participant Use of AI and Homogenization**, 2025.05, Sociological Methods & Research, [[paper]](https://journals.sagepub.com/doi/10.1177/00491241251327130).
 - **Machine Bias. How Do Generative Language Models Answer Opinion Polls?**, 2025.04, Sociological Methods & Research, [[paper]](https://doi.org/10.1177/00491241251330582).
 - **Large language models that replace human participants can harmfully misportray and flatten identity groups**, Nature Machine Intelligence, 2025, [[paper]](https://www.nature.com/articles/s42256-025-00986-z).
