@@ -195,6 +195,7 @@ Welcome to contribute and discuss!
 - **Diverging Preferences: When do Annotators Disagree and do Models Know?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.14632).
 
 ###  3.6. <a name='Ability'></a>🧠 Ability 
+- **Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation**, 2025, [[paper]](https://arxiv.org/abs/2509.08825), [[post]](https://x.com/joabaum/status/1966454537922793979).
 - **Improving LLM Leaderboards with Psychometrical Methodology**, 2025.01, [[paper]](https://arxiv.org/abs/2501.17200).
 - **AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios**, NAACL 2025, [[paper]](https://arxiv.org/abs/2410.19346).
 - **A Novel Psychometrics-Based Approach to Developing Professional Competency Benchmark for Large Language Models**, 2024.11, [[paper]](https://arxiv.org/abs/2411.00045).
