@@ -88,6 +88,7 @@ Welcome to contribute and discuss!
 - **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**, 2023.12, Nature humanities and social sciences communications, [[paper]](https://arxiv.org/abs/2312.11970).
 - **A Survey on Evaluation of Large Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2307.03109), [[repo]](https://github.com/MLGroupJLU/LLM-eval-survey).
 - **From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Models**, 2023.08, [[paper]](https://arxiv.org/abs/2308.12014), [[repo]](https://github.com/ValueCompass/Alignment-Goal-Survey).
+- **Concerns on the use of generative AI in social science research**, [[website]](https://uh-dcm.github.io/genai-concerns/), [[repo]](https://github.com/uh-dcm/genai-concerns/)
 
 
 ##  2. <a name='Dataset'></a>🗂️ Dataset
