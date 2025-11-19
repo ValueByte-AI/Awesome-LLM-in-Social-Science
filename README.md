@@ -230,6 +230,7 @@ Welcome to contribute and discuss!
 - **Generative Social Choice**, 2023.09, [[paper]](https://arxiv.org/abs/2309.01291)
 
 ##  5. <a name='Alignment'></a>⛑️ Alignment
+- **Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations**, EMNLP 2025, [[paper]](https://aclanthology.org/2025.emnlp-main.1562/).
 - **COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values**, 2025.04, [[paper]](https://arxiv.org/abs/2504.05535).
 - ⭐️ **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.02444).
 - **Optimizing generative AI by backpropagating language model feedback**, Nature, 2025.03, [[paper]](https://www.nature.com/articles/s41586-025-08661-4).
