@@ -92,6 +92,7 @@ Welcome to contribute and discuss!
 
 
 ##  2. <a name='Dataset'></a>🗂️ Dataset
+- **[AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)** — Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions. Available in JSON/CSV under CC-BY-4.0.
 - **[Mental Health Datasets](https://github.com/kharrigian/mental-health-datasets)**
 - **[Datasets for depression detection using data posted on online platforms](https://github.com/bucuram/depression-datasets-nlp)**
 - **Benchmarking Multi-National Value Alignment for Large Language Models**, 2025.04, [[paper]](https://arxiv.org/abs/2504.12911).
@@ -255,7 +256,7 @@ Welcome to contribute and discuss!
 ###  5.1. <a name='PluralisticAlignment'></a>🌈 Pluralistic Alignment
 - [*Benchmark*] **Benchmarking Distributional Alignment of Large Language Models**, 2024.11, [[paper]](https://arxiv.org/abs/2411.05403).
 - **Legal Theory for Pluralistic Alignment**, 2024.10, [[paper]](https://arxiv.org/abs/2410.17271).
-- **Navigating the Cultural Kaleidoscope: A Hitchhiker’s Guide to Sensitivity in Large Language Models**, 2024.10, [[paper]](https://arxiv.org/abs/2410.12880), [[code and data]](https://github.com/NeuralSentinel/CulturalKaleidoscope).
+- **Navigating the Cultural Kaleidoscope: A Hitchhiker's Guide to Sensitivity in Large Language Models**, 2024.10, [[paper]](https://arxiv.org/abs/2410.12880), [[code and data]](https://github.com/NeuralSentinel/CulturalKaleidoscope).
 - **PAD: Personalized Alignment at Decoding-Time**, 2024.10, [[paper]](https://arxiv.org/abs/2410.04070).
 - **Policy Prototyping for LLMs: Pluralistic Alignment via Interactive and Collaborative Policymaking**, 2024.09, [[paper]](https://arxiv.org/abs/2409.08622).
 - **Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration**, 2024.06, [[paper]](https://arxiv.org/abs/2406.15951).
@@ -284,7 +285,7 @@ Welcome to contribute and discuss!
 - **Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies**, 2023, [[paper]](https://proceedings.mlr.press/v202/aher23a.html), [[code]](https://github.com/GatiAher/Using-Large-Language-Models-to-Replicate-Human-Subject-Studies).
 - **Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?**, 2023 [[paper]](https://www.nber.org/papers/w31122), [[code]](https://github.com/johnjosephhorton/homo_silicus).
 - **$S^3$: Social-network Simulation System with Large Language Model-Empowered Agents**, 2023, [[paper]](https://arxiv.org/abs/2307.14984).
-- **Rethinking the Buyer’s Inspection Paradox in Information Markets with Language Agents**, 2023, [[paper]](https://openreview.net/forum?id=6werMQy1uz).
+- **Rethinking the Buyer's Inspection Paradox in Information Markets with Language Agents**, 2023, [[paper]](https://openreview.net/forum?id=6werMQy1uz).
 - **SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series**, 2023, [[paper]](https://openreview.net/forum?id=s9z0HzWJJp).
 - **Humanoid Agents: Platform for Simulating Human-like Generative Agents**, 2023, [[paper]](https://arxiv.org/abs/2310.05418), [[code]](https://github.com/HumanoidAgents/HumanoidAgents).
 - **When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm**, 2023, [[paper]](https://arxiv.org/abs/2306.02552), [[code]](https://github.com/RUC-GSAI/YuLan-Rec).
