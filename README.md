@@ -268,7 +268,7 @@ Welcome to contribute and discuss!
 ##  6. <a name='Simulation'></a>🚀 Simulation
 - **Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions**, 2026.03, [[paper]](https://arxiv.org/abs/2603.13890).
 - **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation**, 2026.03, [[paper]](https://arxiv.org/abs/2603.13876).
-- **EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation**, 2025.09, [[paper]](https://edumirror.net/assets/EduMirror.pdf), [[website]](https://edumirror.net/).
+- **EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation**, ICML 2026, [[paper]](https://edumirror.net/assets/EduMirror.pdf), [[website]](https://edumirror.net/).
 - **Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution**, 2025.09, [[paper]](https://arxiv.org/abs/2509.17703).
 - **TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets**, 2025.02, [[paper]](https://arxiv.org/abs/2502.01506).
 - **AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society**, 2025.02, [[paper]](https://arxiv.org/abs/2502.08691), [[code]](https://github.com/tsinghua-fib-lab/agentsociety/).
