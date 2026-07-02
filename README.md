@@ -183,6 +183,7 @@ Welcome to contribute and discuss!
 
 
 ###  3.4. <a name='Opinion'></a>🎤 Opinion
+- **Helium Model Worldview Benchmark**, 2026, [[dataset]](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark), [[overview]](https://heliumtrades.com/benchmarks/). 304 paired prompts across safety, values, name-swap bias, cue-swap consistency, and 50 balanced political Likert items. Tests whether models stay consistent when a single detail changes.
 - **Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models**, ACL 2025, [[paper]](https://aclanthology.org/2025.acl-long.1529.pdf).
 - **Generative AI Meets Open-Ended Survey Responses: Research Participant Use of AI and Homogenization**, 2025.05, Sociological Methods & Research, [[paper]](https://journals.sagepub.com/doi/10.1177/00491241251327130).
 - **Machine Bias. How Do Generative Language Models Answer Opinion Polls?**, 2025.04, Sociological Methods & Research, [[paper]](https://doi.org/10.1177/00491241251330582).
