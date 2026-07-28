@@ -266,6 +266,7 @@ Welcome to contribute and discuss!
 - **Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette**, 2024.12, [[paper]](https://arxiv.org/abs/2412.11167).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
+- **Frame Entrepreneurs in an AI Agent Community: Concentrated Identity-Claim Production on Moltbook**, ASA CITAMS Roundtable 2026, [[paper]](https://arxiv.org/abs/2604.27271).
 - **Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions**, 2026.03, [[paper]](https://arxiv.org/abs/2603.13890).
 - **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation**, 2026.03, [[paper]](https://arxiv.org/abs/2603.13876).
 - **EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation**, ICML 2026, [[paper]](https://edumirror.net/assets/EduMirror.pdf), [[website]](https://edumirror.net/).
