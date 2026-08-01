@@ -114,8 +114,10 @@ Welcome to contribute and discuss!
 - ⭐️ **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models**, AAAI 2025, [[paper]](https://arxiv.org/abs/2409.12106), [[code]](https://github.com/Value4AI/gpv).
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
 - **Value Profiles for Encoding Human Variation**, 2025.03, [[paper]](https://arxiv.org/abs/2503.15484).
+- **Simulating Human-like Daily Activities with Desire-driven Autonomy**, ICLR 2025, [[paper]](https://openreview.net/forum?id=3ms8EQY7f8), [[arXiv]](https://arxiv.org/abs/2412.06435), [[code]](https://github.com/zfw1226/D2A).
+- **Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions**, AAMAS 2026 Oral, [[paper]](https://arxiv.org/abs/2603.13890), [[code]](https://github.com/jingzhe-lin/ASVO).
 - **Value Compass Leaderboard: A Platform for Fundamental and Validated Evaluation of LLMs Values**, 2025.01, [[paper]](https://arxiv.org/abs/2501.07071).
-- **Causal Graph Guided Steering of LLM Values via Prompts and Sparse Autoencoders**, 2025.01, [[paper]](https://arxiv.org/abs/2501.00581).
+- **Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective**, ACL 2025 Findings, [[paper]](https://aclanthology.org/2025.findings-acl.1188/), [[arXiv]](https://arxiv.org/abs/2501.00581).
 - **NORMAD: A Framework for Measuring the Cultural Adaptability of Large Language Models**, 2024.10, [[paper]](https://arxiv.org/abs/2404.12464).
 - **ValueCompass: A Framework of Fundamental Values for Human-AI Alignment**, 2024.09, [[paper]](https://arxiv.org/abs/2409.09586).
 - **LOCALVALUEBENCH: A Collaboratively Built and Extensible Benchmark for Evaluating Localized Value Alignment and Ethical Safety in Large Language Models**, 2024.08, [[paper]](https://arxiv.org/abs/2408.01460).
@@ -172,6 +174,8 @@ Welcome to contribute and discuss!
 
 
 ###  3.3. <a name='Morality'></a>🔞 Morality
+- **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation**, ACL 2026 Main, [[paper]](https://arxiv.org/abs/2603.13876), [[code]](https://github.com/MoralAgentSim/RoleModel-Moral-Sim).
+- **Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution**, ACL 2026 Main (Oral), [[paper]](https://arxiv.org/abs/2509.17703), [[code]](https://github.com/MoralAgentSim/Simulation-Engine).
 - **Revealing the Pragmatic Dilemma for Moral Reasoning Acquisition in Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.16600).
 - **Normative Evaluation of Large Language Models with Everyday Moral Dilemmas**, 2025.02, [[paper]](https://arxiv.org/abs/2501.18081).
 - **Investigating machine moral judgement through the Delphi experiment**, Nature Machine Intelligence, 2025.01, [[paper]](https://www.nature.com/articles/s42256-024-00969-6).
@@ -231,8 +235,8 @@ Welcome to contribute and discuss!
 - **Generative Social Choice**, 2023.09, [[paper]](https://arxiv.org/abs/2309.01291)
 
 ##  5. <a name='Alignment'></a>⛑️ Alignment
-- **Simple Role Assignment is Extraordinarily Effective for Safety Alignment**, 2026.01, [[paper]](https://arxiv.org/abs/2602.00061).
-- **Communication-Efficient Desire Alignment for Embodied Agent-Human Adaptation**, 2025.05, [[paper]](https://arxiv.org/abs/2505.22503).
+- **Simple Role Assignment is Extraordinarily Effective for Safety Alignment**, ACL 2026 Findings, [[paper]](https://arxiv.org/abs/2602.00061).
+- **Communication-Efficient Desire Alignment for Proactive Embodied Human–Agent Interaction**, ACL 2026 Main (Oral), [[paper]](https://arxiv.org/abs/2505.22503).
 - **Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations**, EMNLP 2025, [[paper]](https://aclanthology.org/2025.emnlp-main.1562/).
 - **COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values**, 2025.04, [[paper]](https://arxiv.org/abs/2504.05535).
 - ⭐️ **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.02444).
@@ -267,10 +271,10 @@ Welcome to contribute and discuss!
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
 - **Frame Entrepreneurs in an AI Agent Community: Concentrated Identity-Claim Production on Moltbook**, ASA CITAMS Roundtable 2026, [[paper]](https://arxiv.org/abs/2604.27271).
-- **Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions**, 2026.03, [[paper]](https://arxiv.org/abs/2603.13890).
-- **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation**, 2026.03, [[paper]](https://arxiv.org/abs/2603.13876).
+- **Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions**, AAMAS 2026 Oral, [[paper]](https://arxiv.org/abs/2603.13890), [[code]](https://github.com/jingzhe-lin/ASVO).
+- **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation**, ACL 2026 Main, [[paper]](https://arxiv.org/abs/2603.13876), [[code]](https://github.com/MoralAgentSim/RoleModel-Moral-Sim).
 - **EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation**, ICML 2026, [[paper]](https://edumirror.net/assets/EduMirror.pdf), [[website]](https://edumirror.net/).
-- **Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution**, 2025.09, [[paper]](https://arxiv.org/abs/2509.17703).
+- **Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution**, ACL 2026 Main (Oral), [[paper]](https://arxiv.org/abs/2509.17703), [[code]](https://github.com/MoralAgentSim/Simulation-Engine).
 - **TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets**, 2025.02, [[paper]](https://arxiv.org/abs/2502.01506).
 - **AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society**, 2025.02, [[paper]](https://arxiv.org/abs/2502.08691), [[code]](https://github.com/tsinghua-fib-lab/agentsociety/).
 - **Political Actor Agent: Simulating Legislative System for Roll Call Votes Prediction with Large Language Models**, AAAI 2025, [[paper]](https://arxiv.org/abs/2412.07144).
