@@ -138,6 +138,7 @@ Welcome to contribute and discuss!
 
 
 ###  3.2. <a name='Personality'></a>🩷 Personality
+- **A psychometric framework for evaluating and shaping personality traits in large language models**, Nature Machine Intelligence, 2025, [[paper]](https://www.nature.com/articles/s42256-025-01115-6).
 - **R.U.Psycho? Robust Unified Psychometric Testing of Language Models**, 2025.03, [[paper]](https://arxiv.org/abs/2503.10229).
 - **Evaluating the ability of large language models to emulate personality**, 2025.01, Nature Scientific Reports, [[paper]](https://www.nature.com/articles/s41598-024-84109-5).
 - **Evaluating the efficacy of LLMs to emulate realistic human personalities**, AAAI 2024, [[paper]](https://ojs.aaai.org/index.php/AIIDE/article/view/31867).
@@ -192,6 +193,8 @@ Welcome to contribute and discuss!
 
 ###  3.4. <a name='Opinion'></a>🎤 Opinion
 - **The AI Gap: How Socioeconomic Status Affects Language Technology Interactions**, ACL 2025 Best Social Impact Paper, [[paper]](https://arxiv.org/abs/2505.12158).
+- **Persuading voters using human–artificial intelligence dialogues**, Nature, 2025.12, [[paper]](https://www.nature.com/articles/s41586-025-09771-9).
+- **Generative language models exhibit social identity biases**, Nature Computational Science, 2025.01, [[paper]](https://www.nature.com/articles/s43588-024-00741-1).
 - **Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models**, ACL 2025, [[paper]](https://aclanthology.org/2025.acl-long.1529.pdf).
 - **Generative AI Meets Open-Ended Survey Responses: Research Participant Use of AI and Homogenization**, 2025.05, Sociological Methods & Research, [[paper]](https://journals.sagepub.com/doi/10.1177/00491241251327130).
 - **Machine Bias. How Do Generative Language Models Answer Opinion Polls?**, 2025.04, Sociological Methods & Research, [[paper]](https://doi.org/10.1177/00491241251330582).
@@ -207,6 +210,11 @@ Welcome to contribute and discuss!
 - **Diverging Preferences: When do Annotators Disagree and do Models Know?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.14632).
 
 ###  3.6. <a name='Ability'></a>🧠 Ability 
+- **Large language models surpass human experts in predicting neuroscience results**, Nature Human Behaviour, 2025.02, [[paper]](https://www.nature.com/articles/s41562-024-02046-9).
+- **Quantifying large language model usage in scientific papers**, Nature Human Behaviour, 2025, [[paper]](https://www.nature.com/articles/s41562-025-02273-8).
+- **Large language models without grounding recover non-sensorimotor but not sensorimotor features of human concepts**, Nature Human Behaviour, 2025, [[paper]](https://www.nature.com/articles/s41562-025-02203-8).
+- **Visual cognition in multimodal large language models**, Nature Machine Intelligence, 2025.01, [[paper]](https://www.nature.com/articles/s42256-024-00963-y).
+- **Testing theory of mind in large language models and humans**, Nature Human Behaviour, 2024.07, [[paper]](https://www.nature.com/articles/s41562-024-01882-z).
 - **Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation**, 2025, [[paper]](https://arxiv.org/abs/2509.08825), [[post]](https://x.com/joabaum/status/1966454537922793979).
 - **Improving LLM Leaderboards with Psychometrical Methodology**, 2025.01, [[paper]](https://arxiv.org/abs/2501.17200).
 - **AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios**, NAACL 2025, [[paper]](https://arxiv.org/abs/2410.19346).
@@ -218,7 +226,7 @@ Welcome to contribute and discuss!
 - **Can Large Language Models Transform Computational Social Science?**, 2023, [[paper]](https://arxiv.org/abs/2305.03514), [[code]](https://github.com/SALT-NLP/LLMs_for_CSS).
 - **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**, 2023, [[paper]](https://arxiv.org/pdf/2310.11667.pdf), [[code]](https://www.sotopia.world/).
 - **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**, 2023, [[paper]](https://arxiv.org/abs/2310.02124), [[code]](https://github.com/zjunlp/MachineSoM).
-- **Playing repeated games with Large Language Models**, 2023.05, [[paper]](https://arxiv.org/abs/2305.16867).
+- **Playing repeated games with large language models**, Nature Human Behaviour, 2025.05, [[paper]](https://www.nature.com/articles/s41562-025-02172-y), [[arXiv]](https://arxiv.org/abs/2305.16867).
 - **Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Methods**, 2023, [[paper]](https://arxiv.org/abs/2303.13988).
 - **Using cognitive psychology to understand GPT-3**, 2023.02, PNAS, [[paper]](https://www.pnas.org/doi/full/10.1073/pnas.2218523120?doi=10.1073%2Fpnas.2218523120).
 - **Large language models as a substitute for human experts in annotating political text**, 2024.02, [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241236239).
@@ -230,6 +238,8 @@ Welcome to contribute and discuss!
 
 ##  4. <a name='Toolenhancement'></a>⚒️ Tool enhancement
 - **Past Meets Present: Creating Historical Analogy with Large Language Models**, ACL 2025 Outstanding Paper, [[paper]](https://arxiv.org/abs/2409.14820), [[code]](https://github.com/Nianqi-Li/Historical-Analogy-of-LLMs).
+- **A reporting checklist for large language models in behavioural science**, Nature Human Behaviour, 2026, [[paper]](https://www.nature.com/articles/s41562-026-02492-7).
+- **Durably reducing conspiracy beliefs through dialogues with AI**, Science, 2024.09, [[paper]](https://www.science.org/doi/10.1126/science.adq1814).
 - ⭐️ **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.02444).
 - ⭐️ **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models**, AAAI 2025, [[paper]](https://arxiv.org/abs/2409.12106), [[code]](https://github.com/Value4AI/gpv).
 - **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling**, AAAI 2025, [[paper]](https://arxiv.org/abs/2412.16674).
@@ -279,6 +289,8 @@ Welcome to contribute and discuss!
 - **Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette**, 2024.12, [[paper]](https://arxiv.org/abs/2412.11167).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
+- **Large language models can predict the results of social science experiments**, Nature, 2026.07, [[paper]](https://www.nature.com/articles/s41586-026-10742-x).
+- **A foundation model to predict and capture human cognition**, Nature, 2025.07, [[paper]](https://www.nature.com/articles/s41586-025-09215-4).
 - **Frame Entrepreneurs in an AI Agent Community: Concentrated Identity-Claim Production on Moltbook**, ASA CITAMS Roundtable 2026, [[paper]](https://arxiv.org/abs/2604.27271).
 - **Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions**, AAMAS 2026 Oral, [[paper]](https://arxiv.org/abs/2603.13890), [[code]](https://github.com/jingzhe-lin/ASVO).
 - **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation**, ACL 2026 Main, [[paper]](https://arxiv.org/abs/2603.13876), [[code]](https://github.com/MoralAgentSim/RoleModel-Moral-Sim).
@@ -320,6 +332,7 @@ Welcome to contribute and discuss!
 - **Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior**, ICLR-2024, [[paper]](https://openreview.net/forum?id=TrKq4Wlwcz)
 
 ##  7. <a name='Perspective'></a>👁️‍🗨️ Perspective and Position
+- **Large AI models are cultural and social technologies**, Science, 2025.03, [[paper]](https://www.science.org/doi/10.1126/science.adt9819).
 - **Position: Simulating Society Requires Simulating Thought**, 2025.06, [[paper]](https://arxiv.org/abs/2506.06958).
 - **The benefits, risks and bounds of personalizing the alignment of large language models to individuals**, 2024.04, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-024-00820-y).
 - **A social path to human-like artificial intelligence**, 2023.11, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-023-00754-x).
