@@ -102,7 +102,7 @@ Welcome to contribute and discuss!
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
 - **Automating Dataset Updates Towards Reliable and Timely Evaluation of Large Language Models**, NeurIPS 2024, [[paper]](https://arxiv.org/abs/2402.11894).
 - https://github.com/CLUEbenchmark/CLUEDatasetSearch
-- **HATEDAY: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter**, 2024.11, [[paper]](https://arxiv.org/abs/2411.15462).
+- **HATEDAY: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter**, ACL 2025 Outstanding Paper, [[paper]](https://arxiv.org/abs/2411.15462).
 - https://lit.eecs.umich.edu/downloads.html
 - **COMPO: Community Preferences for Language Model Personalization**, 2024.10, [[paper]](https://arxiv.org/pdf/2410.16027).
 - **Cultural Commonsense Knowledge for Intercultural Dialogues**, CIKM 2024, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679768), [[dataset]](https://mango.mpi-inf.mpg.de/).
@@ -110,6 +110,9 @@ Welcome to contribute and discuss!
 ##  3. <a name='EvaluatingLLM'></a>🔎 Evaluating LLM
 
 ###  3.1. <a name='Value'></a>❤️ Value
+- **A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive**, ACL 2025 Best Paper, [[paper]](https://arxiv.org/abs/2402.11005).
+- **Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs**, ACL 2025 Best Paper, [[paper]](https://arxiv.org/abs/2502.01926).
+- **Towards Better Value Principles for Large Language Model Alignment: A Systematic Evaluation and Enhancement**, ACL 2025 SAC Highlight, [[paper]](https://aclanthology.org/2025.acl-long.1408/).
 - ⭐️ **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.02444).
 - ⭐️ **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models**, AAAI 2025, [[paper]](https://arxiv.org/abs/2409.12106), [[code]](https://github.com/Value4AI/gpv).
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
@@ -175,6 +178,7 @@ Welcome to contribute and discuss!
 
 
 ###  3.3. <a name='Morality'></a>🔞 Morality
+- **Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral**, ACL 2025 Best Resource Paper, [[paper]](https://arxiv.org/abs/2502.14083).
 - **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation**, ACL 2026 Main, [[paper]](https://arxiv.org/abs/2603.13876), [[code]](https://github.com/MoralAgentSim/RoleModel-Moral-Sim).
 - **Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution**, ACL 2026 Main (Oral), [[paper]](https://arxiv.org/abs/2509.17703), [[code]](https://github.com/MoralAgentSim/Simulation-Engine).
 - **Revealing the Pragmatic Dilemma for Moral Reasoning Acquisition in Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.16600).
@@ -188,6 +192,7 @@ Welcome to contribute and discuss!
 
 
 ###  3.4. <a name='Opinion'></a>🎤 Opinion
+- **The AI Gap: How Socioeconomic Status Affects Language Technology Interactions**, ACL 2025 Best Social Impact Paper, [[paper]](https://arxiv.org/abs/2505.12158).
 - **Persuading voters using human–artificial intelligence dialogues**, Nature, 2025.12, [[paper]](https://www.nature.com/articles/s41586-025-09771-9).
 - **Generative language models exhibit social identity biases**, Nature Computational Science, 2025.01, [[paper]](https://www.nature.com/articles/s43588-024-00741-1).
 - **Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models**, ACL 2025, [[paper]](https://aclanthology.org/2025.acl-long.1529.pdf).
@@ -201,6 +206,7 @@ Welcome to contribute and discuss!
 
 ###  3.5. <a name='GeneralPreference'></a>💚 General Preference
 
+- **Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)**, NeurIPS 2025 D&B Track Best Paper, [[paper]](https://arxiv.org/abs/2510.22954).
 - **Diverging Preferences: When do Annotators Disagree and do Models Know?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.14632).
 
 ###  3.6. <a name='Ability'></a>🧠 Ability 
@@ -231,6 +237,7 @@ Welcome to contribute and discuss!
 - **AIR-Bench 2024: A Safety Benchmark Based on Risk Categories from Regulations and Policies**, 2024.07, [[paper]](https://arxiv.org/abs/2407.17436).
 
 ##  4. <a name='Toolenhancement'></a>⚒️ Tool enhancement
+- **Past Meets Present: Creating Historical Analogy with Large Language Models**, ACL 2025 Outstanding Paper, [[paper]](https://arxiv.org/abs/2409.14820), [[code]](https://github.com/Nianqi-Li/Historical-Analogy-of-LLMs).
 - **A reporting checklist for large language models in behavioural science**, Nature Human Behaviour, 2026, [[paper]](https://www.nature.com/articles/s41562-026-02492-7).
 - **Durably reducing conspiracy beliefs through dialogues with AI**, Science, 2024.09, [[paper]](https://www.science.org/doi/10.1126/science.adq1814).
 - ⭐️ **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.02444).
@@ -245,6 +252,8 @@ Welcome to contribute and discuss!
 - **Generative Social Choice**, 2023.09, [[paper]](https://arxiv.org/abs/2309.01291)
 
 ##  5. <a name='Alignment'></a>⛑️ Alignment
+- **On the Alignment of Large Language Models with Global Human Opinion**, AAAI 2026 Best Paper (AI Alignment Track), [[paper]](https://arxiv.org/abs/2509.01418).
+- **Language Models Resist Alignment: Evidence From Data Compression**, ACL 2025 Best Paper, [[paper]](https://arxiv.org/abs/2406.06144).
 - **Simple Role Assignment is Extraordinarily Effective for Safety Alignment**, ACL 2026 Findings, [[paper]](https://arxiv.org/abs/2602.00061).
 - **Communication-Efficient Desire Alignment for Proactive Embodied Human–Agent Interaction**, ACL 2026 Main (Oral), [[paper]](https://arxiv.org/abs/2505.22503).
 - **Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations**, EMNLP 2025, [[paper]](https://aclanthology.org/2025.emnlp-main.1562/).
