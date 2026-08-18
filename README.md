@@ -184,6 +184,7 @@ Welcome to contribute and discuss!
 - **Revealing the Pragmatic Dilemma for Moral Reasoning Acquisition in Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.16600).
 - **Normative Evaluation of Large Language Models with Everyday Moral Dilemmas**, 2025.02, [[paper]](https://arxiv.org/abs/2501.18081).
 - **Investigating machine moral judgement through the Delphi experiment**, Nature Machine Intelligence, 2025.01, [[paper]](https://www.nature.com/articles/s42256-024-00969-6).
+- **The Judgment-Consequence Gap: LLM Moral Reasoning in Healthcare Decisions**, 2026.08, [[paper]](https://arxiv.org/abs/2608.05583).
 - **Moral Foundations of Large Language Models**, 2023.10, [[paper]](https://arxiv.org/abs/2310.15337).
 - **Exploring the psychology of GPT-4's Moral and Legal Reasoning**, 2023.08, [[paper]](https://arxiv.org/abs/2308.01264).
 - **Probing the Moral Development of Large Language Models through Defining Issues Test**
@@ -250,6 +251,7 @@ Welcome to contribute and discuss!
 - **ChatFive: Enhancing User Experience in Likert Scale Personality Test through Interactive Conversation with LLM Agents**, CUI 2024, [[paper]](https://dl.acm.org/doi/abs/10.1145/3640794.3665572)
 - **LLM Agents for Psychology: A Study on Gamified Assessments**, 2024.02, [[paper]](https://arxiv.org/abs/2402.12326).
 - **Generative Social Choice**, 2023.09, [[paper]](https://arxiv.org/abs/2309.01291)
+- **Leveraging large language models to map triggers of contamination-related obsessive-compulsive symptoms**, Communications Psychology, 2026.08, [[paper]](https://www.nature.com/articles/s44271-026-00503-x).
 
 ##  5. <a name='Alignment'></a>⛑️ Alignment
 - **On the Alignment of Large Language Models with Global Human Opinion**, AAAI 2026 Best Paper (AI Alignment Track), [[paper]](https://arxiv.org/abs/2509.01418).
@@ -287,6 +289,7 @@ Welcome to contribute and discuss!
 - **Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration**, 2024.06, [[paper]](https://arxiv.org/abs/2406.15951).
 - **Self-Pluralising Culture Alignment for Large Language Models**, 2024.10, [[paper]](https://arxiv.org/abs/2410.12971).
 - **Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette**, 2024.12, [[paper]](https://arxiv.org/abs/2412.11167).
+- **PALMs: Using Multi Construct-Grounded Rationales for Modeling Population Preferences in LLMs**, 2026.08, [[paper]](https://arxiv.org/abs/2608.01458).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
 - **Large language models can predict the results of social science experiments**, Nature, 2026.07, [[paper]](https://www.nature.com/articles/s41586-026-10742-x).
@@ -330,6 +333,8 @@ Welcome to contribute and discuss!
 - **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars**, 2023.11, [[paper]](https://arxiv.org/abs/2311.17227), [[code]](https://github.com/agiresearch/WarAgent).
 - **Emergence of Social Norms in Large Language Model-based Agent Societies**, 2024.03, [[paper]](https://arxiv.org/abs/2403.08251), [[code]](https://github.com/sxswz213/CRSEC).
 - **Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior**, ICLR-2024, [[paper]](https://openreview.net/forum?id=TrKq4Wlwcz)
+- **Representational Equality in Cross-country Value Simulation: A Systematic Analysis of Large Language Models**, 2026.08, [[paper]](https://arxiv.org/abs/2608.08058).
+- **Role Steering of Language Models for Social Simulations**, 2026.08, [[paper]](https://arxiv.org/abs/2608.00023).
 
 ##  7. <a name='Perspective'></a>👁️‍🗨️ Perspective and Position
 - **Large AI models are cultural and social technologies**, Science, 2025.03, [[paper]](https://www.science.org/doi/10.1126/science.adt9819).
