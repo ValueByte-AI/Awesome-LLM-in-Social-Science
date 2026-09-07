@@ -92,6 +92,7 @@ Welcome to contribute and discuss!
 
 
 ##  2. <a name='Dataset'></a>🗂️ Dataset
+- **Can LLMs Imagine Moral Alternatives Beyond Binary Dilemmas?**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2606.31213), [[dataset]](https://huggingface.co/datasets/jongchanch/MoralAltDataset), [[code]](https://github.com/skynunu/beyond-binary-choice).
 - **[AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)** — Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions. Available in JSON/CSV under CC-BY-4.0.
 - **[Mental Health Datasets](https://github.com/kharrigian/mental-health-datasets)**
 - **[Datasets for depression detection using data posted on online platforms](https://github.com/bucuram/depression-datasets-nlp)**
@@ -292,6 +293,7 @@ Welcome to contribute and discuss!
 - **PALMs: Using Multi Construct-Grounded Rationales for Modeling Population Preferences in LLMs**, 2026.08, [[paper]](https://arxiv.org/abs/2608.01458).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
+- **When Persona Attributes Improve Population Alignment in Large Language Models**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.02526).
 - **CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents**, arXiv, 2026.07, [[paper]](https://arxiv.org/abs/2608.16897).
 - **Large language models can predict the results of social science experiments**, Nature, 2026.07, [[paper]](https://www.nature.com/articles/s41586-026-10742-x).
 - **A foundation model to predict and capture human cognition**, Nature, 2025.07, [[paper]](https://www.nature.com/articles/s41586-025-09215-4).
