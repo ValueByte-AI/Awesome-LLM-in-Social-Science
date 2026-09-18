@@ -239,6 +239,7 @@ Welcome to contribute and discuss!
 - **AIR-Bench 2024: A Safety Benchmark Based on Risk Categories from Regulations and Policies**, 2024.07, [[paper]](https://arxiv.org/abs/2407.17436).
 
 ##  4. <a name='Toolenhancement'></a>⚒️ Tool enhancement
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 - **Past Meets Present: Creating Historical Analogy with Large Language Models**, ACL 2025 Outstanding Paper, [[paper]](https://arxiv.org/abs/2409.14820), [[code]](https://github.com/Nianqi-Li/Historical-Analogy-of-LLMs).
 - **A reporting checklist for large language models in behavioural science**, Nature Human Behaviour, 2026, [[paper]](https://www.nature.com/articles/s41562-026-02492-7).
 - **Durably reducing conspiracy beliefs through dialogues with AI**, Science, 2024.09, [[paper]](https://www.science.org/doi/10.1126/science.adq1814).
