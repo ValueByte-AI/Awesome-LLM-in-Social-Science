@@ -94,6 +94,7 @@ Welcome to contribute and discuss!
 ##  2. <a name='Dataset'></a>🗂️ Dataset
 - **Can LLMs Imagine Moral Alternatives Beyond Binary Dilemmas?**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2606.31213), [[dataset]](https://huggingface.co/datasets/jongchanch/MoralAltDataset), [[code]](https://github.com/skynunu/beyond-binary-choice).
 - **[AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)** — Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions. Available in JSON/CSV under CC-BY-4.0.
+- **[Jevsus](https://github.com/2nd1st/Jevsus)** — Open dataset and runner that puts statements to a model returning a probability per option and no text: one subject swapped at a time, several wordings, eleven languages, with and without an option to decline. Questions and readings are published together with every raw response; browsable at [position.secondfirst.ai](https://position.secondfirst.ai). MIT, independent of TypeSafe.
 - **[Mental Health Datasets](https://github.com/kharrigian/mental-health-datasets)**
 - **[Datasets for depression detection using data posted on online platforms](https://github.com/bucuram/depression-datasets-nlp)**
 - **Benchmarking Multi-National Value Alignment for Large Language Models**, 2025.04, [[paper]](https://arxiv.org/abs/2504.12911).
