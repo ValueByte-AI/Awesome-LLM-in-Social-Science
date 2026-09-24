@@ -59,6 +59,7 @@ Welcome to contribute and discuss!
 ---
 
 ##  1. <a name='Survey'></a>📚 Survey 
+- **Mapping the Emerging Social Science of Large Language Models**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.07598).
 - ⭐️ **Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement**, 2025.05, [[paper]](https://arxiv.org/abs/2505.08245).
 - **Missing the Margins: A Systematic Literature Review on the Demographic Representativeness of LLMs**, ACL 2025, [[paper]](https://aclanthology.org/2025.findings-acl.1246/), [[collection]](https://github.com/Indiiigo/LLM_rep_review).
 - **Large language models (LLM) in computational social science: prospects, current state, and challenges**, 2025.03, Social Network Analysis and Mining, [[paper]](https://link.springer.com/article/10.1007/s13278-025-01428-9).
@@ -234,6 +235,8 @@ Welcome to contribute and discuss!
 - **Large language models as a substitute for human experts in annotating political text**, 2024.02, [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241236239).
 
 ### 3.7. <a name='Risk'></a>❤️ Risk and Safety
+- **Implicit-bias-like patterns in reasoning models**, Nature Machine Intelligence, 2026.09, [[paper]](https://www.nature.com/articles/s42256-026-01300-1), [[code]](https://github.com/lee-messi/RM-IAT).
+- **When Does Defendant Statement Matter? A Study of Bias and Persuasion in LLM-Simulated Jurors**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.09887).
 - **From Lived Experience to Insight: Unpacking the Psychological Risks of Using AI Conversational Agents**, 2024.12, [[paper]](https://arxiv.org/abs/2412.07951).
 - **Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations**, 2024.10, [[paper]](https://arxiv.org/abs/2410.15442).
 - **AIR-Bench 2024: A Safety Benchmark Based on Risk Categories from Regulations and Policies**, 2024.07, [[paper]](https://arxiv.org/abs/2407.17436).
@@ -293,6 +296,8 @@ Welcome to contribute and discuss!
 - **PALMs: Using Multi Construct-Grounded Rationales for Modeling Population Preferences in LLMs**, 2026.08, [[paper]](https://arxiv.org/abs/2608.01458).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
+- **But How Would AI Agents Run a Town's Economy?**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.11108).
+- **How a Chatbot's Response Style Shapes a Classroom: A Multi-Agent Simulation of Students Consulting AI**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.05018).
 - **When Persona Attributes Improve Population Alignment in Large Language Models**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.02526).
 - **CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents**, arXiv, 2026.07, [[paper]](https://arxiv.org/abs/2608.16897).
 - **Large language models can predict the results of social science experiments**, Nature, 2026.07, [[paper]](https://www.nature.com/articles/s41586-026-10742-x).
