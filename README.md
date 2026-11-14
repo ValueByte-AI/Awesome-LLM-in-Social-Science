@@ -296,6 +296,7 @@ Welcome to contribute and discuss!
 - **PALMs: Using Multi Construct-Grounded Rationales for Modeling Population Preferences in LLMs**, 2026.08, [[paper]](https://arxiv.org/abs/2608.01458).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
+- **When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses**, arXiv, 2026.10, [[paper]](https://arxiv.org/abs/2607.26348), [[code]](https://github.com/ZihanChen1995/when-synthetic-users-fail-a-cross-domain-benchmark-of-llm-simulated-human-survey-responses).
 - **But How Would AI Agents Run a Town's Economy?**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.11108).
 - **How a Chatbot's Response Style Shapes a Classroom: A Multi-Agent Simulation of Students Consulting AI**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.05018).
 - **When Persona Attributes Improve Population Alignment in Large Language Models**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.02526).
