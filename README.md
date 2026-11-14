@@ -93,6 +93,7 @@ Welcome to contribute and discuss!
 
 
 ##  2. <a name='Dataset'></a>🗂️ Dataset
+- **VASTU: Language Models Struggle to Recognize Online Community Values**, EMNLP 2026, [[paper]](https://aclanthology.org/2026.emnlp-main.231/).
 - **Can LLMs Imagine Moral Alternatives Beyond Binary Dilemmas?**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2606.31213), [[dataset]](https://huggingface.co/datasets/jongchanch/MoralAltDataset), [[code]](https://github.com/skynunu/beyond-binary-choice).
 - **[AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)** — Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions. Available in JSON/CSV under CC-BY-4.0.
 - **[Mental Health Datasets](https://github.com/kharrigian/mental-health-datasets)**
@@ -112,6 +113,7 @@ Welcome to contribute and discuss!
 ##  3. <a name='EvaluatingLLM'></a>🔎 Evaluating LLM
 
 ###  3.1. <a name='Value'></a>❤️ Value
+- **Moral Lenses, Political Coordinates: Towards Ideological Positioning of Morally Conditioned LLMs**, EMNLP 2026, [[paper]](https://aclanthology.org/2026.emnlp-main.262/).
 - **A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive**, ACL 2025 Best Paper, [[paper]](https://arxiv.org/abs/2402.11005).
 - **Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs**, ACL 2025 Best Paper, [[paper]](https://arxiv.org/abs/2502.01926).
 - **Towards Better Value Principles for Large Language Model Alignment: A Systematic Evaluation and Enhancement**, ACL 2025 SAC Highlight, [[paper]](https://aclanthology.org/2025.acl-long.1408/).
@@ -140,6 +142,7 @@ Welcome to contribute and discuss!
 
 
 ###  3.2. <a name='Personality'></a>🩷 Personality
+- **Personality expression and perception in large language models and humans**, Scientific Reports, 2026.11, [[paper]](https://www.nature.com/articles/s41598-026-75546-5).
 - **A psychometric framework for evaluating and shaping personality traits in large language models**, Nature Machine Intelligence, 2025, [[paper]](https://www.nature.com/articles/s42256-025-01115-6).
 - **R.U.Psycho? Robust Unified Psychometric Testing of Language Models**, 2025.03, [[paper]](https://arxiv.org/abs/2503.10229).
 - **Evaluating the ability of large language models to emulate personality**, 2025.01, Nature Scientific Reports, [[paper]](https://www.nature.com/articles/s41598-024-84109-5).
@@ -195,6 +198,7 @@ Welcome to contribute and discuss!
 
 
 ###  3.4. <a name='Opinion'></a>🎤 Opinion
+- **To Manipulate or Not: Opinion Dynamics in LLM Interactions**, arXiv, 2026.10, [[paper]](https://arxiv.org/abs/2610.28875).
 - **The AI Gap: How Socioeconomic Status Affects Language Technology Interactions**, ACL 2025 Best Social Impact Paper, [[paper]](https://arxiv.org/abs/2505.12158).
 - **Persuading voters using human–artificial intelligence dialogues**, Nature, 2025.12, [[paper]](https://www.nature.com/articles/s41586-025-09771-9).
 - **Generative language models exhibit social identity biases**, Nature Computational Science, 2025.01, [[paper]](https://www.nature.com/articles/s43588-024-00741-1).
@@ -235,6 +239,9 @@ Welcome to contribute and discuss!
 - **Large language models as a substitute for human experts in annotating political text**, 2024.02, [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241236239).
 
 ### 3.7. <a name='Risk'></a>❤️ Risk and Safety
+- **Social-Bias Vulnerabilities in Multi-Agent Safety Deliberation**, arXiv, 2026.11, [[paper]](https://arxiv.org/abs/2611.04289).
+- **Different Demographic Cues Yield Inconsistent Conclusions About LLM Personalization and Bias**, EMNLP 2026, [[paper]](https://arxiv.org/abs/2601.18486), [[code]](https://github.com/manueltonneau/llm-demographic-cues).
+- **Small Changes, Big Impact: Demographic Bias in LLM-Based Hiring Through Subtle Sociocultural Markers in Anonymised Resumes**, EMNLP 2026, [[paper]](https://aclanthology.org/2026.emnlp-main.998/), [[code]](https://github.com/Social-AI-Studio/LLMHiringFairnessSG).
 - **Implicit-bias-like patterns in reasoning models**, Nature Machine Intelligence, 2026.09, [[paper]](https://www.nature.com/articles/s42256-026-01300-1), [[code]](https://github.com/lee-messi/RM-IAT).
 - **When Does Defendant Statement Matter? A Study of Bias and Persuasion in LLM-Simulated Jurors**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.09887).
 - **From Lived Experience to Insight: Unpacking the Psychological Risks of Using AI Conversational Agents**, 2024.12, [[paper]](https://arxiv.org/abs/2412.07951).
@@ -296,6 +303,14 @@ Welcome to contribute and discuss!
 - **PALMs: Using Multi Construct-Grounded Rationales for Modeling Population Preferences in LLMs**, 2026.08, [[paper]](https://arxiv.org/abs/2608.01458).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
+- **A Framework for Context Enrichment and Selective Robustness in LLM Social Agents**, arXiv, 2026.11, [[paper]](https://arxiv.org/abs/2611.06914).
+- **Designing Behavioral Profiles for Language Model Simulation of Out-of-Distribution Human Behavior**, arXiv, 2026.11, [[paper]](https://arxiv.org/abs/2611.00661).
+- **Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents**, REALM 2026 (EMNLP Workshop), [[paper]](https://aclanthology.org/2026.realm-1.55/).
+- **LLM Multi-Agent Systems Are Vulnerable to Herding and Runaway Cascades**, arXiv, 2026.10, [[paper]](https://arxiv.org/abs/2610.30769).
+- **Emergence of polarization in networks of large language model agents**, Nature Communications, 2026.10, [[paper]](https://www.nature.com/articles/s41467-026-78228-y), [[code]](https://github.com/tsinghua-fib-lab/LLM_for_Polarization).
+- **Investigating Extreme Behavior in Multi-Agent Systems**, arXiv, 2026.10, [[paper]](https://arxiv.org/abs/2610.19863).
+- **From Caricature to Collective Artifact: How Persona Construction Drives Polarization in Generative Social Simulations**, arXiv, 2026.10, [[paper]](https://arxiv.org/abs/2610.16498), [[code]](https://github.com/dimichai/prosocialinterventions).
+- **Behavioral History Outperforms Descriptions of the Person for LLM Synthetic Personas**, arXiv, 2026.10, [[paper]](https://arxiv.org/abs/2610.03998).
 - **But How Would AI Agents Run a Town's Economy?**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.11108).
 - **How a Chatbot's Response Style Shapes a Classroom: A Multi-Agent Simulation of Students Consulting AI**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.05018).
 - **When Persona Attributes Improve Population Alignment in Large Language Models**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.02526).
@@ -345,6 +360,7 @@ Welcome to contribute and discuss!
 - **Role Steering of Language Models for Social Simulations**, 2026.08, [[paper]](https://arxiv.org/abs/2608.00023).
 
 ##  7. <a name='Perspective'></a>👁️‍🗨️ Perspective and Position
+- **What the Bitter Lesson Does Not License in Social Simulation**, arXiv, 2026.11, [[paper]](https://arxiv.org/abs/2611.05717).
 - **Large AI models are cultural and social technologies**, Science, 2025.03, [[paper]](https://www.science.org/doi/10.1126/science.adt9819).
 - **Position: Simulating Society Requires Simulating Thought**, 2025.06, [[paper]](https://arxiv.org/abs/2506.06958).
 - **The benefits, risks and bounds of personalizing the alignment of large language models to individuals**, 2024.04, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-024-00820-y).
