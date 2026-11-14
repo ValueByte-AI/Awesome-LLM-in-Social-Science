@@ -311,6 +311,7 @@ Welcome to contribute and discuss!
 - **Investigating Extreme Behavior in Multi-Agent Systems**, arXiv, 2026.10, [[paper]](https://arxiv.org/abs/2610.19863).
 - **From Caricature to Collective Artifact: How Persona Construction Drives Polarization in Generative Social Simulations**, arXiv, 2026.10, [[paper]](https://arxiv.org/abs/2610.16498), [[code]](https://github.com/dimichai/prosocialinterventions).
 - **Behavioral History Outperforms Descriptions of the Person for LLM Synthetic Personas**, arXiv, 2026.10, [[paper]](https://arxiv.org/abs/2610.03998).
+- **When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses**, arXiv, 2026.10, [[paper]](https://arxiv.org/abs/2607.26348), [[code]](https://github.com/ZihanChen1995/when-synthetic-users-fail-a-cross-domain-benchmark-of-llm-simulated-human-survey-responses).
 - **But How Would AI Agents Run a Town's Economy?**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.11108).
 - **How a Chatbot's Response Style Shapes a Classroom: A Multi-Agent Simulation of Students Consulting AI**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.05018).
 - **When Persona Attributes Improve Population Alignment in Large Language Models**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.02526).
