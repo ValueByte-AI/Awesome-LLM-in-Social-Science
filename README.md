@@ -217,6 +217,7 @@ Welcome to contribute and discuss!
 - **Diverging Preferences: When do Annotators Disagree and do Models Know?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.14632).
 
 ###  3.6. <a name='Ability'></a>🧠 Ability 
+- **CogBattery: Human-Referenced Evaluation of Cognitive Task Behavior and Structure in Language Models**, arXiv, 2026.07, [[paper]](https://arxiv.org/abs/2607.24999), [[code]](https://github.com/dengzhe-hou/CogBattery).
 - **Large language models surpass human experts in predicting neuroscience results**, Nature Human Behaviour, 2025.02, [[paper]](https://www.nature.com/articles/s41562-024-02046-9).
 - **Quantifying large language model usage in scientific papers**, Nature Human Behaviour, 2025, [[paper]](https://www.nature.com/articles/s41562-025-02273-8).
 - **Large language models without grounding recover non-sensorimotor but not sensorimotor features of human concepts**, Nature Human Behaviour, 2025, [[paper]](https://www.nature.com/articles/s41562-025-02203-8).
