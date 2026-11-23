@@ -237,6 +237,7 @@ Welcome to contribute and discuss!
 - **Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Methods**, 2023, [[paper]](https://arxiv.org/abs/2303.13988).
 - **Using cognitive psychology to understand GPT-3**, 2023.02, PNAS, [[paper]](https://www.pnas.org/doi/full/10.1073/pnas.2218523120?doi=10.1073%2Fpnas.2218523120).
 - **Large language models as a substitute for human experts in annotating political text**, 2024.02, [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241236239).
+- **Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind**, EMNLP 2026 Findings, 2026.07, [[paper]](https://arxiv.org/abs/2608.00261).
 
 ### 3.7. <a name='Risk'></a>❤️ Risk and Safety
 - **Social-Bias Vulnerabilities in Multi-Agent Safety Deliberation**, arXiv, 2026.11, [[paper]](https://arxiv.org/abs/2611.04289).
